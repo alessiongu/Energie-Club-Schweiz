@@ -23,7 +23,7 @@
 }
 
  .masthead {
-  background: url('/assets/img/energie-baustelle2.jpg') no-repeat center center;
+  background: url('../assets/img/energie-baustelle2.jpg') no-repeat center center;
   background-size: cover;
   height: 100vh;
   rotate: 90;
@@ -48,15 +48,15 @@
 
 
 .circle-image-1 {
-  background-image: url('/assets/img/kühlschrank.png');
+  background-image: url('../assets/img/kühlschrank.png');
 }
 
 .circle-image-2 {
-  background-image: url('/assets/img/dampfwolken.png');
+  background-image: url('../assets/img/dampfwolken.png');
 }
 
 .circle-image-3 {
-  background-image: url('/assets/img/matterhorn.jpg');
+  background-image: url('../assets/img/matterhorn.jpg');
 }
 
 
